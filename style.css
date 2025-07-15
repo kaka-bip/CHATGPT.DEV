@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #8b8787;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container h1{
+    text-align: center;
+}
+
+.box{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.horas{
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.minutos{
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.segundos{
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+}
